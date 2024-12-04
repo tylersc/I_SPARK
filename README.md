@@ -6,3 +6,5 @@ In general the directory structure is self explanatory with file (1.) being firs
 File (9) is the operation file to run to get the updated forecasts for the current month. This was all created by Tyler Cox, September 2024 for Inigo.
 
 More data and info will hopefully be added over the coming months.
+
+![image](https://github.com/user-attachments/assets/fb0adaa9-dc83-4e79-9dda-29d6be745d25)
