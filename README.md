@@ -1,10 +1,9 @@
-# Inigo_ML_HU
+# I_SPARK
 
 This directory contains notebooks that train and run an ML model for seasonal hurricane prediction using XGBoost.
 
-In general the directory structure is self explanatory with file (1.) being first, and running through file (9.).
-File (9) is the operation file to run to get the updated forecasts for the current month. This was all created by Tyler Cox, September 2024 for Inigo.
+More data and info will be added over the coming months. For now, you can see all the forecast regions the model is taking into account for each different forecast month.
 
-More data and info will hopefully be added over the coming months.
+Below, check out the full poster about I-SPARK that's been presented at the American Geophysical Union conference in December 2024.
 
 ![image](https://github.com/user-attachments/assets/fb0adaa9-dc83-4e79-9dda-29d6be745d25)
