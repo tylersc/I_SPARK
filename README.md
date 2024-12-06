@@ -1,6 +1,6 @@
 # I_SPARK
 
-This directory contains notebooks that train and run an ML model for seasonal hurricane prediction using XGBoost.
+This directory contains notebooks that train and run an ML model for seasonal hurricane risk prediction. The model and all its associated data belong to Inigo.
 
 More data and info will be added over the coming months. For now, you can see all the forecast regions the model is taking into account for each different forecast month.
 
